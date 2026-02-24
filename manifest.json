@@ -1,0 +1,48 @@
+{
+    "manifest_version":2,
+    "name":"Alt-shift",
+    "version":"0.1",
+    "author": "Real pradeep",
+
+    "description":"hold alt shift and the desired number to switch the tab place",
+
+    "background":{
+        "scripts":["Alt-shift.js"]
+    },
+
+
+    "commands":{
+        "Alt_shift_1":{
+            "suggested_key":{
+                "default":"Alt+Shift+1"
+            },
+            "description":"Move tab to 1"
+        },
+        "Alt_shift_2":{
+            "suggested_key":{
+                "default":"Alt+Shift+2"
+            },
+            "description":"Move tab to 2"
+        },
+        "Alt_shift_3":{
+            "suggested_key":{
+                "default":"Alt+Shift+3"
+            },
+            "description":"Move tab to 3"
+        },
+        "Alt_shift_4":{
+            "suggested_key":{
+                "default":"Alt+Shift+4"
+            },
+            "description":"Move tab to 4"
+        },
+        "Alt_shift_5":{
+            "suggested_key":{
+                "default":"Alt+Shift+5"
+            },
+            "description":"Move tab to 5"
+        },
+
+    }
+
+}
