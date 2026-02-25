@@ -10,6 +10,21 @@
         "scripts":["Alt-shift.js"]
     },
 
+    "icons":{
+        "64":"assests/icons.png"
+    },
+
+    "browser_specific_settings": {
+        "gecko": {
+            "data_collection_permissions":{
+                "required":[
+                    "none"
+                ]
+            },
+            "id": "Hellopradeep69@gmail.com",
+            "strict_min_version": "58.0"
+        }
+    },
 
     "commands":{
         "Alt_shift_1":{
