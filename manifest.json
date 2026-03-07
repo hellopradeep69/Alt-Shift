@@ -1,7 +1,7 @@
 {
     "manifest_version":2,
     "name":"Alt-shift",
-    "version":"0.2",
+    "version":"0.3",
     "author": "Real pradeep",
 
     "description":"hold alt shift and the desired number to switch the tab place",
